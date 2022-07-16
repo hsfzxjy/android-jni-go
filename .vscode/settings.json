@@ -1,0 +1,10 @@
+{
+    "go.toolsEnvVars": {
+        "GOOS": "android",
+        "GOARCH": "arm64",
+        "CGO_ENABLED": "1",
+        "CC": "/home/hsfzxjy/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android26-clang",
+        "CXX": "/home/hsfzxjy/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android26-clang++",
+        "CGO_CFLAGS": "-I/home/hsfzxjy/Android/Sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/"
+    },
+}

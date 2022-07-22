@@ -1,6 +1,6 @@
 # android-jni-go (ajni)
 
-This library contains types and functions for interoperation Go and JVM on Android.
+This library contains types and functions for interoperating Go and JVM on Android.
 
 Most of the code is ported from [xlab/android-go](https://github.com/xlab/android-go), which seems not being maintained for a quite a while. This library extracts a small portion from android-go's auto-generated code, and fixes several critical issues.
 
